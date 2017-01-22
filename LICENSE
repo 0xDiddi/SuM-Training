@@ -1,0 +1,43 @@
+VODT LICENSE
+
+Version 1, 22 January 2017
+
+Copyright (c) Marvin Musold, <https://theultimatehose.github.io/>
+The "view only, don't touch" license was created to stop people from
+snitching your hard work and to allow only the most basic things.
+
+0. Preamble
+
+  - Unless stated otherwise, all permissions and prohibitions apply
+     regardless of whether it is for private or commercial purposes.
+  - Anything not strictly permitted in this license is prohibited.
+     The list of prohibitions is not necessarily complete and only lists
+     the most important points.
+
+1. Definitions
+
+  "Project" refers to whatever this license is applied to.
+  "The product resulting from the project" refers to whatever is obtained
+   by compiling the project.
+  
+2. This license permits the following:
+
+  - VIEWING: You are allowed to view the source code of the project.
+  - PRIVATE USE OF THE PRODUCT: You are allowed to privately use the
+     product resulting from the project. Use of the project itself or
+     under any other conditions is strictly prohibited as described below.
+  - SUGGESTION: You are allowed to send suggestions regarding the project
+     to its author as long as they don't infringe any points of this
+     license.
+
+3. This license prohibits especially the following:
+
+  - USE OF SOURCE CODE: You may not use any parts of the project
+     other than its product.
+  - USE OF THE PRODUCT: You may not use the product of the project
+     commercially or for any sort of patent, unless permission has been
+     granted by the project owner.
+  - MODIFICATION: You may not modify the source code of the project
+  - (RE-) DISTRIBUTION: You may not distribute nor redistribute the project
+     or the product resulting from it. You are however allowed to link to
+     the place, where the project is originally distributed.

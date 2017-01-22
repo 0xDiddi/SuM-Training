@@ -1,0 +1,25 @@
+Extended Documentation
+
+How the render method works:
+	 - The very first frame is completly drawed.
+	 
+	 - Every frame beyond the first frame gets only updated if its necessary:
+		It's necessary if:
+			- The mouse hovers over it
+			- The obect moved
+			- The object changed
+			- The object appeared/disappeared.
+			
+	 - Click handling is based on coordinates and sizes of objects.
+		Example:
+			- mouse position 500,400 | object position 450,350 size 100,100 > mouse is above object.
+			- mouse position 100,200 | object position 450,350 size 100,100 > mouse is not above object.
+			
+	 
+		
+How the 'game-physics' works:
+	 - The game is fps/tick limited
+		- 1 frame equals 1 tick
+		- the game's 'physics engine' is based on ticks and is not running on a seperate thread.
+		- 'physics' get calculated before the associated frame is renderd.
+	 
